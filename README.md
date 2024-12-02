@@ -14,7 +14,7 @@ VrchatCast.infoの開発用の場所です。タスクの管理もここで行�
 プロジェクトの中身はこんな感じになっています：
 
 ```
-docker-fullstack/
+Main/
 ├── backend/              # Django (サーバーのコード)
 ├── frontend/             # React (画面のコード)
 ├── nginx/                # Nginx (Webサーバーの設定)
@@ -33,7 +33,7 @@ GitHubからプロジェクトをコピーしてパソコンに持ってきま�
 
 ```bash
 git clone https://github.com/<your-repo-name>/docker-fullstack.git
-cd docker-fullstack
+cd Main
 ```
 
 ---
